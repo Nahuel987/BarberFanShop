@@ -1,0 +1,29 @@
+
+.miNavBar{
+    background-color: $eeireBlack;
+    color: $blanco;
+}
+.navbar-logo{
+    padding: 15px;
+    width: 120px;
+    height:70px;
+    
+}
+   
+
+
+/*Nav Mobile*/
+.navbar-brand{
+    margin-left:15px;
+}
+.navbar-toggler{
+    margin-right: 15px;
+    background-color:white;
+}
+
+li{
+    text-align: center;
+    padding: 20px;
+  //  font-size: $medium;
+}
+

@@ -1,0 +1,20 @@
+.miHero {
+  background: url(/assets/img/post-image.jpg) no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+/*Hero Moblie*/
+
+.miHero {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.heroTexto {
+  width: 90%;
+ text-align: center;
+}
+
+
