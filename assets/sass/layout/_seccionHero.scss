@@ -4,17 +4,17 @@
   min-height: 100vh;
 }
 
-/*Hero Moblie*/
-
 .miHero {
   display: flex;
   justify-content: center;
   flex-direction: column;
 }
 
-.heroTexto {
+
+.heroTextoDesktop{
   width: 90%;
+  margin-right: auto;
+  margin-left: auto;
  text-align: center;
+ line-height: 6rem;
 }
-
-

@@ -15,7 +15,10 @@
 // black Italic  900
 // regular       400
 
+
+
 .texto-hero{
+    
     
     font-family: 'Playfair Display', serif;
     font-size:$xx-large;
@@ -36,7 +39,7 @@
     font-size:$medium;
     font-weight: 300;
     color: $lightGray;
-    line-height: 1rem;
+    line-height: 3rem;
     color: $nickel;
 }
 
@@ -54,9 +57,18 @@
     color: $spanishPink;
     line-height: 2rem;
 }
+
+.texto-naomi{
+    font-family: 'Roboto', sans-serif;
+    font-size:$small;
+    font-weight: 400;
+    color: $lightGray;
+    line-height: 2rem;
+}
+
 .textoLi{
     font-family: 'Roboto', sans-serif;
-    font-size:$medium;
+    font-size:$large;
     font-weight: 400;
     
 }
